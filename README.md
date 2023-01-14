@@ -34,7 +34,8 @@ print("Square root of the number:",newton_method(a))
 
 ## Output:
 
-![Screenshot (29)](https://user-images.githubusercontent.com/120620842/212478548-d9d4d900-f3b6-4e75-988c-b36b73f2c03d.png)
+
+![square root of variable](https://user-images.githubusercontent.com/120620842/212478737-aaa6aa0b-fe23-48c6-be02-15d43e9c0498.png)
 
 
 ## Result:
